@@ -5,7 +5,7 @@ FPS="30"
 QUAL="ultrafast"
 
 YOUTUBE_URL="rtmp://a.rtmp.youtube.com/live2"
-KEY="urff-w6zh-amub-g08f-4cxj"
+KEY="vju3-88g4-bqz2-vd5q-fyhf"
 
 VIDEO_SOURCE="video.mp4"
 AUDIO_SOURCE="music.mp3"
